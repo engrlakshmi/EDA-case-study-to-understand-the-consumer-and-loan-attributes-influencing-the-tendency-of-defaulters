@@ -1,0 +1,1 @@
+# EDA-case-study-to-understand-the-consumer-and-loan-attributes-influencing-the-tendency-of-defaulters
